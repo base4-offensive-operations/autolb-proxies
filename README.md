@@ -14,6 +14,8 @@
   </p>
 </p>
 
+![Stargazers](https://img.shields.io/github/stars/base4-offensive-operations/autolb-proxies?style=social) ![Issues](https://img.shields.io/github/issues/base4-offensive-operations/autolb-proxies) ![License](https://img.shields.io/github/license/base4-offensive-operations/autolb-proxies) 
+
 ## About The Project
 
 Herramienta desarrollada para la automatización de scraping de proxies publicos, verificar su estado y luego levantar un load balancer. Para así crear un proxy rotativo socks5 con el cual podemos escanear puertos, realizar web scraping, etc.
