@@ -18,8 +18,6 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
-
 Herramienta desarrollada para la automatización de scraping de proxies publicos, verificar su estado y luego levantar un load balancer. Para así crear un proxy rotativo socks5 con el cual podemos escanear puertos, realizar web scraping, etc.
 
 ## Built With
