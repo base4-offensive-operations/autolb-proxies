@@ -32,7 +32,8 @@ Herramienta desarrollada para la automatización de scraping de proxies publicos
 
 ### Prerequisites
 
-Este proyecto utiliza go-dispatch-proxy, puedes descargar el binario desde su repo o compilar el código fuente. Al obtener el binario, debes moverlo a la carpeta de este proyecto o editar la línea 184 del script con la ruta del binario
+Este proyecto utiliza go-dispatch-proxy, puedes descargar el binario desde su repo o compilar el código fuente. Al obtener el binario, debes moverlo a la carpeta de este proyecto o editar la línea 183 del script con la ruta del binario. 
+También debes ejecutar "./loadbalancer -list" para revisar que interfaces/ip es posible utilizar para levantar el lb, una vez desplegada la lista, editas la linea 183 con el IP donde quieras levantar el loadbalancer con el puerto por defecto en 8080.
 
 ### Installation
 
